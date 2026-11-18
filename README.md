@@ -25,7 +25,7 @@ current_roles:
 interests: ["Networking", "Cloud & Infrastructure", "Help Desk / Technical Support", "Security & GRC"]
 ```
 
-- 🛠️ On-site installs, PC swaps, networking and POS support across NY and NJ client locations
+- 🛠️ Hands-on IT support: troubleshooting hardware, software, network and POS issues, documenting work in ticketing systems, and walking non-technical users through fixes across NY and NJ client sites
 - 🔭 Building toward a career in **network engineering and infrastructure**, with security next
 - 🎓 4,000+ hours tutoring 1,000+ STEM students, so I explain technical things clearly
 - 🌐 Hindi, Gujarati and English
